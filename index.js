@@ -22,6 +22,31 @@ console.log(mahasiswaSI, mahasiswaAK, mahasiswaMN, mahasiswaPBI);
 
 let plus = 3+3-2;
 console.log(plus);
+let minus = 3-2;
+let number = 7
+let result = number == 7
+result = number === 7
+console.log(result);
+
+let alphabet = ["a","b","c","d","e","f"];
+let result1 = alphabet.join("_");
+console.log(result1);
+let result2 = alphabet.length
+console.log(result2);
+result3 = alphabet.includes("j");
+console.log(result3);
+result4  = alphabet.push("k")
+console.log(result4);
+result5 = alphabet.pop()
+console.log(result5);
+
+let nilai = 
+
+
+
+
+
+
 
 
 
